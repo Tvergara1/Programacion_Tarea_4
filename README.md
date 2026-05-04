@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Gestión - Software FJ
 
 #  Descripción del Proyecto
@@ -87,3 +88,6 @@ Para ejecutar el sistema:
 
 ```bash
 python main.py
+=======
+# Programacion_Tarea_4
+>>>>>>> b1e1f05f3d5559c7764b197c901430eea315b885
